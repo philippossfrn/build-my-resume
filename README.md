@@ -12,7 +12,7 @@ An Overleaf template can be found here: ![overleaf template](https://www.overlea
 
 The three pages below show most possibilities that are implemented in my-resume. There are different pagestyles available, colors, header and much more can be optimized to match your taste.
 
-The default page style features a header and a highlight bar.
+The default page style features a header and a highlight bar!
 
 ![Example PDF page 1](https://github.com/GiantMolecularCloud/my-resume/blob/main/resume-1.png "Example PDF page 1")
 
